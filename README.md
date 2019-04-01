@@ -1,0 +1,2 @@
+# NightwatchGranblue
+Granblue Automation
